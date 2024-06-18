@@ -7,6 +7,7 @@ It can be about anything!
 - GPT-4o
 - Claude3
 - Gemini-1.5
+- LLaMa 3
 
 ## Video Generation
 - SORA
