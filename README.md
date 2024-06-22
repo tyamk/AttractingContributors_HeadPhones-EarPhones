@@ -19,4 +19,5 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite coffee growing regions.
 
 # List of Coffee Growing Regions.
-1. Ethiopia
+1. Jamaican Blue Mountain Coffee
+2. Ethiopia
