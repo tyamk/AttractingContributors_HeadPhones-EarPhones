@@ -15,19 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/gill876/AttractingContributors-Hiking (Hiking destinations)
+# My Project
+Goal - I want contributors to help me list some favorite coffee growing regions.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
-
-# List of Hobby
-1. Hiking
-2. Spectating Motorsport
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+# List of Coffee Growing Regions.
+1. Ethiopia
