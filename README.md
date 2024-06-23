@@ -1,4 +1,4 @@
-<img src="![d2f33a2f-0d93-4d0b-9c69-34c44e30ffd8-0](https://github.com/tyamk/AttractingContributors_HeadPhones-EarPhones/assets/167286634/b939a8c7-21b5-4391-b3f8-dd16b927198e)" alt="earphones" title="画像タイトル">
+![earphones](https://github.com/tyamk/AttractingContributors_HeadPhones-EarPhones/raw/main/assets/167286634/b939a8c7-21b5-4391-b3f8-dd16b927198e)
 
 # Attracting Contributors - Favorite Headphones and Ear!
 phones
