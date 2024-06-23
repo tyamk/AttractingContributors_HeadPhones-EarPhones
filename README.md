@@ -10,3 +10,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime Characte
 
 # List of Anime Characters.
 1. Monkey D. Luffy, (One Piece)
+2. 孫悟空, (Dragon Ball)
