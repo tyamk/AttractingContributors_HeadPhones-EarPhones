@@ -1,4 +1,4 @@
-![earphones](https://one-img.com/P1Z0Ak00BPSy7lU)
+
 # Attracting Contributors - Favorite Headphones and Ear!
 phones
 
