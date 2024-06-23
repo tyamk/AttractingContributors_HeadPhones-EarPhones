@@ -13,3 +13,4 @@ It can be about anything!
 - SORA
 - KLING
 - LUMA Dream Machine
+- Midjouney
