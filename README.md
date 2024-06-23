@@ -33,3 +33,4 @@ Duplication is ok. Please write your favorite sports.
 - volleyball
 - judo
 - handball
+- Badminton
