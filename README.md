@@ -1,5 +1,6 @@
-![Earphones](https://github.com/tyamk/AttractingContributors_HeadPhones-EarPhones/blob/main/earphone.png)
-
+<p align="center">
+  <img src="https://github.com/tyamk/AttractingContributors_HeadPhones-EarPhones/blob/main/earphone.png" alt="Earphones" width="70%" height="80%" style="display: block; margin: 0 auto;">
+</p>
 # Attracting Contributors - Favorite Headphones and Earphones!
 
 Welcome to the Favorite Headphones and Earphones project!
