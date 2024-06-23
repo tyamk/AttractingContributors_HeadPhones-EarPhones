@@ -1,3 +1,4 @@
+![Earphones](https://github.com/tyamk/AttractingContributors_HeadPhones-EarPhones/blob/main/earphone.png)
 
 # Attracting Contributors - Favorite Headphones and Earphones!
 
