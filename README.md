@@ -19,6 +19,7 @@ Our goal is to create a comprehensive repository where users can share their exp
 
 ### List of Headphones and Earphones
 - Please tell me about your favorite headphones or earphones!
+- airpods
 
 ### Example
 Check out this example repository on [Favorite Anime](https://github.com/raux/AttractingContributors-Anime) to see how contributions can be organized and shared.
