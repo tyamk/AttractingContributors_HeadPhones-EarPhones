@@ -1,5 +1,4 @@
-![earphones](https://github.com/tyamk/AttractingContributors_HeadPhones-EarPhones/raw/main/assets/167286634/b939a8c7-21b5-4391-b3f8-dd16b927198e)
-
+![earphones](https://one-img.com/P1Z0Ak00BPSy7lU)
 # Attracting Contributors - Favorite Headphones and Ear!
 phones
 
