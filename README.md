@@ -1,6 +1,5 @@
 
-# Attracting Contributors - Favorite Headphones and Ear!
-phones
+# Attracting Contributors - Favorite Headphones and Earphones!
 
 Welcome to the Favorite Headphones and Earphones project!
 
