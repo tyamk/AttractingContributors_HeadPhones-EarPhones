@@ -31,3 +31,4 @@ Duplication is ok. Please write your favorite sports.
 - kendo ([YU762](https://github.com/YU762/AttractingContributors-Animals))
 - tennis
 - volleyball
+- judo
