@@ -29,3 +29,4 @@ Duplication is ok. Please write your favorite sports.
 - table tennis ([kangy106](https://github.com/kangy106/mahjong))
 - badminton ([chihironNaist](https://github.com/chihironNaist/AttractingContributors-cat))
 - kendo ([YU762](https://github.com/YU762/AttractingContributors-Animals))
+- tennis
