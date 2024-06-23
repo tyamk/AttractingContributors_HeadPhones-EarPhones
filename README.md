@@ -30,3 +30,4 @@ Duplication is ok. Please write your favorite sports.
 - badminton ([chihironNaist](https://github.com/chihironNaist/AttractingContributors-cat))
 - kendo ([YU762](https://github.com/YU762/AttractingContributors-Animals))
 - tennis
+- volleyball
