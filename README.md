@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - basketball (me)
 - soccer ([hy20191108](https://github.com/hy20191108/AttractingContributors-Reading))
 - baseball ([ou-junya](https://github.com/ou-junya/FavoriteProgrammingLanguage))
-- soccer ([ShuheiKosaka](https://github.com/ShuheiKosaka/Music)
+- soccer ([ShuheiKosaka](https://github.com/ShuheiKosaka/Music))
 - table tennis ([kangy106](https://github.com/kangy106/mahjong))
 - badminton ([chihironNaist](https://github.com/chihironNaist/AttractingContributors-cat))
 
