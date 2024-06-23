@@ -24,7 +24,3 @@ Check out this example repository on [Favorite Anime](https://github.com/raux/At
 Join the discussion on [AttractingContributors Discussions](https://github.com/NAIST-SE/AttractingContributors/discussions/4) to share your thoughts and ideas.
 
 Thank you for contributing to our headphone and earphone community!
-
----
-
-Replace "[Favorite Headphones and Earphones](link)" with the actual link to your repository once you've created it. This README serves as an invitation for others to share their insights and recommendations regarding headphones and earphones. Adjust the content as needed based on further discussions and contributions from participants.
