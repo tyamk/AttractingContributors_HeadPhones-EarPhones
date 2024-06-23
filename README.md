@@ -22,6 +22,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of hobby
 basketball
+add_baseball
+baseball
 soccer
 table tennis
 badminton
