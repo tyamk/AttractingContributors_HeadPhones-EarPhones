@@ -21,11 +21,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of hobby
-basketball
-soccer
-add_baseball
-baseball
-soccer
-table tennis
-badminton
+- basketball
+- soccer
+- baseball
+- baseball
+- soccer
+- table tennis
+- badminton
 
