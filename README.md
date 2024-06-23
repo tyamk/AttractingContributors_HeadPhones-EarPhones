@@ -24,10 +24,10 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 1. Hiking
 2. Spectating Motorsport
 3. くろんど池
-4. 
-5. 
-6. 
-7. 
-8. 
+4. mounting
+5. Travel
+6. Biking
+7. nijozan
+8. Mt. Wakakusa
 9. 
 10. 
