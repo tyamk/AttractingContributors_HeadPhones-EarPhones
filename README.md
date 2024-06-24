@@ -23,6 +23,7 @@ Our goal is to create a comprehensive repository where users can share their exp
 - airpods
 - Anker Soundcore Liberty Neo 2
 - Bose QuietComfort Ultra Headphones
+- WF-1000XM4
 ### Example
 Check out this example repository on [Favorite Anime](https://github.com/raux/AttractingContributors-Anime) to see how contributions can be organized and shared.
 
