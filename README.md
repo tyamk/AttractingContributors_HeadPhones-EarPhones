@@ -29,6 +29,7 @@ Our goal is to create a comprehensive repository where users can share their exp
 - WF-1000XM5
 - WH-1000XM5
 - NICEHCK
+- KOSS porta pro
 - Soundpearts Air 4
 
 ### Example
