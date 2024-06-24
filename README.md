@@ -26,6 +26,7 @@ Our goal is to create a comprehensive repository where users can share their exp
 - WF-1000XM4
 - JBL Tune Beam
 - Galaxy Buds
+- WF-1000XM5
 - WH-1000XM5
 
 ### Example
