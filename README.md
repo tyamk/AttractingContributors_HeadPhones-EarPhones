@@ -30,6 +30,7 @@ Our goal is to create a comprehensive repository where users can share their exp
 - WH-1000XM5
 - NICEHCK
 - KOSS porta pro
+- Soundpearts Air 4
 
 ### Example
 Check out this example repository on [Favorite Anime](https://github.com/raux/AttractingContributors-Anime) to see how contributions can be organized and shared.
