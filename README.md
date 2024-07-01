@@ -20,7 +20,11 @@ Goal - I want contributors to help me list some favorite coffee growing regions.
 
 # List of Coffee Growing Regions.
 1. Ethiopia
-
-
-
-Americano<br/>
+2. Brazil　* 2
+3. Indonesia
+4. Colombia * 2
+5. Robusta
+6. vietnam
+7. Guatemala　🇬🇹
+8. Jamaican Blue Mountain Coffee
+9. Americano
